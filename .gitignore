@@ -1,0 +1,100 @@
+# A gitignore file generated for an AI repo mostly by an AI. Nice!
+#ignore my personal env files
+claude-env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.c
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# SQL and database files
+*.sqlite3
+*.db
+*.db-journal
+
+# Docker files
+*.log
+*.pid
+*.tgz
+*.gz
+*.env
+.dockerignore
+docker-compose.override.yml
+*docker-compose*.yml
+
+# Output of `build` command
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.cache/
+coverage.*
+.coverage
+
+# Mac OS files
+.DS_Store
+
+# Sensitive environment files
+*.env
+*.secret
+
+# PyCharm specific
+.idea/
+
+# VSCode specific
+.vscode/
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Ignore credentials or private data
+**/secrets/
+**/keys/
+**/credentials/
+*.pem
+*.key
+*.crt
+*.p12
+
+# Ignore Python wheels
+*.whl
+
+# Ignore pipenv files (if you use Pipenv)
+Pipfile.lock
+
+# Ignore Conda environment files (if you use Conda)
+conda-meta/
+*.conda
+*.yaml
+*.yml
+
+# Ignore large dataset or data files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.hdf5
+*.parquet
