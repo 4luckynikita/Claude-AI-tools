@@ -2,8 +2,8 @@
 This readme contains implementation of Anthropic's basic API use cases, and prebuilt computer use AI functionality This README aims to provide easy to follow steps on how to install this and use it yourself, step by step.
 
 ### Prerequisites
-* Python 3.11 or later installed
-* Latest version of Docker installed
+* Python 3.11 or later installed for Phase 1
+* Latest version of Docker installed for Phase 2
 
 Start by cloning the repository on your local machine. I will walk you through setting up the Python environment and Docker image to use the services now.
 
