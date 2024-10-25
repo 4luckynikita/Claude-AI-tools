@@ -9,6 +9,7 @@ Start by cloning the repository on your local machine. I will walk you through s
 
 ## Phase 1: Basic Anthropic API calls
 Phase 1: Basic Anthropic API calls
+
 Let's start by getting our Anthropic API key. Visit [this](https://console.anthropic.com/settings/keys) site to find you API key, and load some credits into your account [here](https://console.anthropic.com/settings/billing).
 
 ### Set up a Python virtual environment:
