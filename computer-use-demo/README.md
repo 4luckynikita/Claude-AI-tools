@@ -1,3 +1,6 @@
+## Notes
+* This readme was provided by Anthropic, not me, and is not updated
+
 # Anthropic Computer Use Demo
 
 > [!CAUTION]
